@@ -1,33 +1,33 @@
-code,libelle,color
-FF0,Forêt fermée sans couvert arboré,#9ACD32
-FF1-00,Forêt fermée de feuillus purs en îlots,#2E8B57
-FF1G01-01,Forêt fermée de chênes décidus purs,#3CB371
-FF1G06-06,Forêt fermée de chênes sempervirents purs,#228B22
-FF1-09-09,Forêt fermée de hêtre pur,#8A2BE2
-FF1-10-10,Forêt fermée de châtaignier pur,#DAA520
-FF1-14-14,Forêt fermée de robinier pur,#ADFF2F
-FF1-49-49,Forêt fermée d’un autre feuillu pur,#556B2F
-FF1-00-00,Forêt fermée à mélange de feuillus,#7CFC00
-FF2-00,Forêt fermée de conifères purs en îlots,#4B0082
-FF2-51-51,Forêt fermée de pin maritime pur,#800080
-FF2-52-52,Forêt fermée de pin sylvestre pur,#9932CC
-FF2G53-53,Forêt fermée de pin laricio ou pin noir pur,#8B008B
-FF2-57-57,Forêt fermée de pin d’Alep pur,#DA70D6
-FF2G58-58,Forêt fermée de pin à crochets ou pin cembro pur,#EE82EE
-FF2-81-81,Forêt fermée d’un autre pin pur,#8000FF
-FF2-80-80,Forêt fermée à mélange de pins purs,#7B68EE
-FF2G61-61,Forêt fermée de sapin ou épicéa,#00CED1
-FF2-63-63,Forêt fermée de mélèze pur,#20B2AA
-FF2-64-64,Forêt fermée de douglas pur,#008B8B
-FF2-91-91,Forêt fermée d’un autre conifère pur autre que pin,#4682B4
-FF2-90-90,Forêt fermée à mélange d’autres conifères,#5F9EA0
-FF2-00-00,Forêt fermée à mélange de conifères,#00BFFF
-FF31,Forêt fermée à mélange de feuillus prépondérants et conifères,#FF8C00
-FF32,Forêt fermée à mélange de conifères prépondérants et feuillus,#FFA500
-FO0,Forêt ouverte sans couvert arboré,#FF4500
-FO1,Forêt ouverte de feuillus purs,#ADFF2F
-FO2,Forêt ouverte de conifères purs,#32CD32
-FO3,Forêt ouverte à mélange de feuillus et conifères,#FFD700
+code_tfv,libelle,color
+FF0,ForÃªt fermÃ©e sans couvert arborÃ©,#9ACD32
+FF1-00,ForÃªt fermÃ©e de feuillus purs en Ã®lots,#2E8B57
+FF1G01-01,ForÃªt fermÃ©e de chÃªnes dÃ©cidus purs,#3CB371
+FF1G06-06,ForÃªt fermÃ©e de chÃªnes sempervirents purs,#228B22
+FF1-09-09,ForÃªt fermÃ©e de hÃªtre pur,#8A2BE2
+FF1-10-10,ForÃªt fermÃ©e de chÃ¢taignier pur,#DAA520
+FF1-14-14,ForÃªt fermÃ©e de robinier pur,#ADFF2F
+FF1-49-49,ForÃªt fermÃ©e dâ€™un autre feuillu pur,#556B2F
+FF1-00-00,ForÃªt fermÃ©e Ã  mÃ©lange de feuillus,#7CFC00
+FF2-00,ForÃªt fermÃ©e de conifÃ¨res purs en Ã®lots,#4B0082
+FF2-51-51,ForÃªt fermÃ©e de pin maritime pur,#800080
+FF2-52-52,ForÃªt fermÃ©e de pin sylvestre pur,#9932CC
+FF2G53-53,ForÃªt fermÃ©e de pin laricio ou pin noir pur,#8B008B
+FF2-57-57,ForÃªt fermÃ©e de pin dâ€™Alep pur,#DA70D6
+FF2G58-58,ForÃªt fermÃ©e de pin Ã  crochets ou pin cembro pur,#EE82EE
+FF2-81-81,ForÃªt fermÃ©e dâ€™un autre pin pur,#8000FF
+FF2-80-80,ForÃªt fermÃ©e Ã  mÃ©lange de pins purs,#7B68EE
+FF2G61-61,ForÃªt fermÃ©e de sapin ou Ã©picÃ©a,#00CED1
+FF2-63-63,ForÃªt fermÃ©e de mÃ©lÃ¨ze pur,#20B2AA
+FF2-64-64,ForÃªt fermÃ©e de douglas pur,#008B8B
+FF2-91-91,ForÃªt fermÃ©e dâ€™un autre conifÃ¨re pur autre que pin,#4682B4
+FF2-90-90,ForÃªt fermÃ©e Ã  mÃ©lange dâ€™autres conifÃ¨res,#5F9EA0
+FF2-00-00,ForÃªt fermÃ©e Ã  mÃ©lange de conifÃ¨res,#00BFFF
+FF31,ForÃªt fermÃ©e Ã  mÃ©lange de feuillus prÃ©pondÃ©rants et conifÃ¨res,#FF8C00
+FF32,ForÃªt fermÃ©e Ã  mÃ©lange de conifÃ¨res prÃ©pondÃ©rants et feuillus,#FFA500
+FO0,ForÃªt ouverte sans couvert arborÃ©,#FF4500
+FO1,ForÃªt ouverte de feuillus purs,#ADFF2F
+FO2,ForÃªt ouverte de conifÃ¨res purs,#32CD32
+FO3,ForÃªt ouverte Ã  mÃ©lange de feuillus et conifÃ¨res,#FFD700
 FP,Peupleraie,#EEFF00
 LA4,Lande,#D2691E
-LA6,Formation herbacée,#7FFF00
+LA6,Formation herbacÃ©e,#7FFF00
